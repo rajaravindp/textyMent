@@ -22,7 +22,7 @@ Here is an example of how to use the code: <br>
 ![image](https://github.com/rajaravindp/textyMent/assets/118573661/869e378d-03fa-4f85-bb7f-8fc12935dfd4) | ![image](https://github.com/rajaravindp/textyMent/assets/118573661/68ba1e1f-cd8a-4a8b-9930-fdef05f5e88d) <br>
 
 - Derive sentiment metrics <br>
-![image](https://github.com/rajaravindp/textyMent/assets/118573661/0a81545c-6e38-43e0-b317-953aef62f388) | ![image](https://github.com/rajaravindp/textyMent/assets/118573661/9837a607-24d5-4429-a4d9-938b3804bac0) <br>
+![image](https://github.com/rajaravindp/textyMent/assets/118573661/0a81545c-6e38-43e0-b317-953aef62f388) : ![image](https://github.com/rajaravindp/textyMent/assets/118573661/9837a607-24d5-4429-a4d9-938b3804bac0) <br>
 
 - Categorize sentiment as +ve, -ve or neutral based on polarity <br>
 ![image](https://github.com/rajaravindp/textyMent/assets/118573661/589418c0-f13a-4904-960a-0e11bb0e25b3) | ![image](https://github.com/rajaravindp/textyMent/assets/118573661/07751490-320f-4f97-a8d6-e3e87c40832f) <br>
