@@ -19,8 +19,6 @@ Values between -1.0 and 0.0 represent varying degrees of negativity, with values
 This code example shows how to use TextBlob to perform sentiment analysis on a sentence. It first prompts the user for input, then creates a TextBlob object from the input text. Next, it uses the TextBlob object's sentiment property to calculate the polarity and subjectivity of the text. Finally, it prints the sentiment to the console and categorizes it as positive, negative, or neutral.
 
 Here is an example of how to use the code: <br>
-The two images displayed below offer a striking visual representation of text sentiment analysis results. The image on the left-hand side, with its predominantly negative polarity and maximum objectivity, appears to mirror the tone of text that is primarily factual. On the other hand, the image on the right-hand side tells a completely different story. It exudes a highly positive polarity and maximum subjectivity, suggesting that the associated text is emotionally charged, opinionated, and expressive.
-
 - Prompt the user for input <br>
 ![image](https://github.com/rajaravindp/textyMent/assets/118573661/869e378d-03fa-4f85-bb7f-8fc12935dfd4) | ![image](https://github.com/rajaravindp/textyMent/assets/118573661/68ba1e1f-cd8a-4a8b-9930-fdef05f5e88d) <br>
 
@@ -32,6 +30,8 @@ The two images displayed below offer a striking visual representation of text se
 
 - Categorize sentiment as objective or subjective based on subjectivity <br>
 ![image](https://github.com/rajaravindp/textyMent/assets/118573661/45c4c363-cfee-4284-b650-c8290822c9da) | ![image](https://github.com/rajaravindp/textyMent/assets/118573661/a12ab28f-8ed5-4529-a330-179e211d67d7) <br>
+
+The sets of images displayed above offer a striking visual representation of text sentiment analysis results. The image on the left-hand side, with its predominantly negative polarity and maximum objectivity, appears to mirror the tone of text that is primarily factual. On the other hand, the image on the right-hand side tells a completely different story. It exudes a highly positive polarity and maximum subjectivity, suggesting that the associated text is emotionally charged, opinionated, and expressive. <br>
 
 Please keep in mind that this is a naive implementatioon. I have undertaken this project with the intent to kickstart my NLP journey. This project has many pitfallas. Beware!
 For example: <br>
