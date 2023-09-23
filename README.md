@@ -9,11 +9,11 @@ TextBlob is a Python library for processing textual data. It provides a simple A
   - 1.0: Represents high subjectivity, indicating that the text is very subjective, emotional, or opinionated.
 Values between 0.0 and 1.0 represent varying degrees of subjectivity. A score closer to 0.0 suggests that the text is more objective, while a score closer to 1.0 suggests that the text is more subjective and contains personal opinions or emotions.
 
-In the context of TextBlob's sentiment analysis, the "polarity" score is a numerical value that represents the overall sentiment or emotional tone of a piece of text. It measures whether the text is primarily positive, negative, or neutral.
+- In the context of TextBlob's sentiment analysis, the "polarity" score is a numerical value that represents the overall sentiment or emotional tone of a piece of text. It measures whether the text is primarily positive, negative, or neutral.
 Polarity score typically ranges from -1.0 to 1.0, where:
-- 1.0: Represents a highly negative sentiment, indicating strong negativity in the text.
-- 0.0: Represents a neutral sentiment, indicating that the text has neither a positive nor a negative sentiment.
-- 1.0: Represents a highly positive sentiment, indicating strong positivity in the text.
+  - 1.0: Represents a highly negative sentiment, indicating strong negativity in the text.
+  - 0.0: Represents a neutral sentiment, indicating that the text has neither a positive nor a negative sentiment.
+  - 1.0: Represents a highly positive sentiment, indicating strong positivity in the text.
 Values between -1.0 and 0.0 represent varying degrees of negativity, with values closer to -1.0 indicating stronger negative sentiments. Values between 0.0 and 1.0 represent varying degrees of positivity, with values closer to 1.0 indicating stronger positive sentiments.
 
 This code example shows how to use TextBlob to perform sentiment analysis on a sentence. It first prompts the user for input, then creates a TextBlob object from the input text. Next, it uses the TextBlob object's sentiment property to calculate the polarity and subjectivity of the text. Finally, it prints the sentiment to the console and categorizes it as positive, negative, or neutral.
