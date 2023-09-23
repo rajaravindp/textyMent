@@ -38,7 +38,7 @@ For example: <br>
 ![image](https://github.com/rajaravindp/textyMent/assets/118573661/e13c57bb-cd4a-477b-b1c6-6d8c1abac2a5) <br>
 - Even though the sentence conveys happiness, the polarity is classified as neutral <br><div style="display: flex;">
   - Derive sentiment metrics <br>
-    ![image](https://github.com/rajaravindp/textyMent/assets/118573661/f1f4ee90-536c-4905-8b43-dbc52838bd4c) <br>
+    - ![image](https://github.com/rajaravindp/textyMent/assets/118573661/f1f4ee90-536c-4905-8b43-dbc52838bd4c) <br>
   - Categorize sentiment as +ve, -ve or neutral based on polarity <br>
-    ![image](https://github.com/rajaravindp/textyMent/assets/118573661/e46b99bb-cdc0-4f69-b958-f358db49313f)
+    - ![image](https://github.com/rajaravindp/textyMent/assets/118573661/e46b99bb-cdc0-4f69-b958-f358db49313f) <br>
 
