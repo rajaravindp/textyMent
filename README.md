@@ -17,7 +17,6 @@ Polarity score typically ranges from -1.0 to 1.0, where:
 Values between -1.0 and 0.0 represent varying degrees of negativity, with values closer to -1.0 indicating stronger negative sentiments. Values between 0.0 and 1.0 represent varying degrees of positivity, with values closer to 1.0 indicating stronger positive sentiments.
 
 This code example shows how to use TextBlob to perform sentiment analysis on a sentence. It first prompts the user for input, then creates a TextBlob object from the input text. Next, it uses the TextBlob object's sentiment property to calculate the polarity and subjectivity of the text. Finally, it prints the sentiment to the console and categorizes it as positive, negative, or neutral.
-
 Here is an example of how to use the code: <br>
 - Prompt the user for input <br>
 ![image](https://github.com/rajaravindp/textyMent/assets/118573661/869e378d-03fa-4f85-bb7f-8fc12935dfd4) | ![image](https://github.com/rajaravindp/textyMent/assets/118573661/68ba1e1f-cd8a-4a8b-9930-fdef05f5e88d) <br>
@@ -38,8 +37,8 @@ For example: <br>
 - Prompting user for input <br>
 ![image](https://github.com/rajaravindp/textyMent/assets/118573661/e13c57bb-cd4a-477b-b1c6-6d8c1abac2a5) <br>
 - Even though the sentence conveys happiness, the polarity is classified as neutral <br>
-![image](https://github.com/rajaravindp/textyMent/assets/118573661/f1f4ee90-536c-4905-8b43-dbc52838bd4c) <br>
-![image](https://github.com/rajaravindp/textyMent/assets/118573661/e46b99bb-cdc0-4f69-b958-f358db49313f) <br>
+  - ![image](https://github.com/rajaravindp/textyMent/assets/118573661/f1f4ee90-536c-4905-8b43-dbc52838bd4c) <br>
+  - ![image](https://github.com/rajaravindp/textyMent/assets/118573661/e46b99bb-cdc0-4f69-b958-f358db49313f) <br>
 
 
 
