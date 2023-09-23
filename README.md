@@ -18,6 +18,17 @@ Values between -1.0 and 0.0 represent varying degrees of negativity, with values
 
 This code example shows how to use TextBlob to perform sentiment analysis on a sentence. It first prompts the user for input, then creates a TextBlob object from the input text. Next, it uses the TextBlob object's sentiment property to calculate the polarity and subjectivity of the text. Finally, it prints the sentiment to the console and categorizes it as positive, negative, or neutral.
 
-Here is an example of how to use the code:
-![image](https://github.com/rajaravindp/textyMent/assets/118573661/d36d67a0-ff3f-4d2e-8402-4192a5dc320f)
+Here is an example of how to use the code: <br>
+- Prompt the user for input: 
+![image](https://github.com/rajaravindp/textyMent/assets/118573661/869e378d-03fa-4f85-bb7f-8fc12935dfd4)
+- Derive sentiment metrics:
+![image](https://github.com/rajaravindp/textyMent/assets/118573661/0a81545c-6e38-43e0-b317-953aef62f388)
+- Categorize sentiment as +ve, -ve or neutral based on polarity
+![image](https://github.com/rajaravindp/textyMent/assets/118573661/589418c0-f13a-4904-960a-0e11bb0e25b3)
+- Categorize sentiment as objective or subjective based on subjectivity
+![image](https://github.com/rajaravindp/textyMent/assets/118573661/45c4c363-cfee-4284-b650-c8290822c9da)
+
+
+
+
 
