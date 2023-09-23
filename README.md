@@ -40,5 +40,6 @@ For example: <br>
   - Derive sentiment metrics <br>
     - ![image](https://github.com/rajaravindp/textyMent/assets/118573661/f1f4ee90-536c-4905-8b43-dbc52838bd4c) <br>
   - Categorize sentiment as +ve, -ve or neutral based on polarity <br>
-    - ![image](https://github.com/rajaravindp/textyMent/assets/118573661/e46b99bb-cdc0-4f69-b958-f358db49313f) <br>
+    - ![image](https://github.com/rajaravindp/textyMent/assets/118573661/e46b99bb-cdc0-4f69-b958-f358db49313f) {align="left"} <br>
+
 
